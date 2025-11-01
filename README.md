@@ -21,10 +21,6 @@ Ao realizar este laboratório, foram cumpridos os seguintes objetivos:
 | **GitHub** | Versionamento e compartilhamento do repositório de documentação. |
 | **Markdown** | Formatação estruturada dos arquivos de documentação. |
 
-## 📝 Anotações e Insights Adquiridos
-
-Esta seção contém o material de apoio para estudos, detalhando os aprendizados obtidos em cada ferramenta.
-
 ## 🛠️ Documentação do Processo Técnico
 
 ### 1. Preparação do Ambiente Azure
